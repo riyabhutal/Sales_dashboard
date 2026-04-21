@@ -1,30 +1,47 @@
-**📊 Sales Dashboard Analysis**
+# 📊 Sales Dashboard Analysis
 
-Developed an interactive Sales Dashboard to analyze revenue, profit, and sales trends using Power BI. The project focuses on transforming raw data into meaningful insights to support data-driven decision-making.
+> End-to-End Data Analysis Project using Power BI
 
-**🔧 Tools Used:**
+---
 
-Power BI
+## 🚀 Overview
 
-Excel (Data Cleaning & Preparation)
+This project showcases an interactive **Sales Dashboard** built using Power BI to analyze revenue, profit, and sales trends. It transforms raw data into meaningful insights for better decision-making.
 
-**📈 Key Features:**
+---
 
-Visualized key metrics like total sales, profit, and growth trends
+## 🛠️ Tools & Technologies
 
-Identified top-performing products and regions
+* Power BI
+* Excel (Data Cleaning & Preparation)
 
-Interactive filters for dynamic analysis
+---
 
-Cleaned and structured raw data for accurate reporting
+## 📈 Key Features
 
-**📊 Insights Gained:**
+* 📊 Visualized key metrics such as **Total Sales, Profit, and Growth Trends**
+* 🌍 Identified **top-performing products and regions**
+* 🎛️ Added **interactive filters and slicers** for dynamic analysis
+* 🧹 Cleaned and structured raw data for accurate reporting
 
-Discovered high-performing regions contributing to maximum revenue
-Identified low-performing products needing improvement
-Observed monthly sales trends and seasonal patterns
+---
 
-**🚀 Outcome:**
+## 🔍 Insights
 
-Improved understanding of business performance through visual storytelling
-Enabled easier decision-making using interactive dashboards
+* High-performing regions contribute significantly to overall revenue
+* Certain products consistently generate higher profits
+* Monthly trends reveal seasonal sales patterns
+
+---
+
+## 🎯 Outcome
+
+* Improved understanding of business performance
+* Enabled data-driven decision-making through interactive visuals
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="772" height="436" alt="Data Visualization" src="https://github.com/user-attachments/assets/36520480-9a4a-41ed-9c29-b18a2c4d4815" />
+
